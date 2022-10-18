@@ -1,0 +1,39 @@
+body{
+    background: lavender;
+}
+
+
+#panier{ padding-top: 10%;
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+    font-style: oblique ;
+    color:rgba(5, 216, 231, 0.885);
+
+}
+
+#list-img{
+        width: 5rem;
+        height: 5rem;
+        margin-left: 4%;
+    }
+
+.quantity{display:flex;
+justify-content: center;
+align-items: center;
+margin-left: -70%; }
+
+#myTable {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 10% 5px;
+    border: 1px solid rgb(142, 43, 43);
+    table-layout: fixed;
+    width: 100%;
+    background: white;}
+
+    .row2{background-color:lavender;}
+
+    
+   
+    
